@@ -2,6 +2,8 @@
 
 A modern, interactive quiz application built with React that tests your knowledge of React concepts. The app features a timer, progress tracking, and a scoring system.
 
+![Quiz App Screenshot](public/reactQuizSnapshot.png)
+
 ## Features
 
 - ⚡ Dynamic quiz questions loaded from an API
